@@ -1,1 +1,1 @@
-console.log("Rodando o sistema de gerenciamento de jgosos");
+console.log("Rodando o sistema de gerenciamento de josos");
